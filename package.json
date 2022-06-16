@@ -1,0 +1,24 @@
+{
+  "name": "dio-desafio-introducao-ao-typescript",
+  "version": "1.0.0",
+  "description": "Realizar os desafios propostos pelo mentor e desenvolvedor João Santos, pelo bootcamp da DIO. O intuito é de fixar e praticar os fundamentos já previamente passados durante as aulas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelSoaresDev/dio-desafio-introducao-ao-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelSoaresDev/dio-desafio-introducao-ao-typescript/issues"
+  },
+  "homepage": "https://github.com/RafaelSoaresDev/dio-desafio-introducao-ao-typescript#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
